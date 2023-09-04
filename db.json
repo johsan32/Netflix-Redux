@@ -1,0 +1,407 @@
+{
+  "listMovies": [
+    {
+      "adult": false,
+      "backdrop_path": "/rRcNmiH55Tz0ugUsDUGmj8Bsa4V.jpg",
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "id": 884605,
+      "original_language": "en",
+      "original_title": "No Hard Feelings",
+      "overview": "Nakit paraya ihtiyacı olan bir teslimat şoförü, son derecede beceriksiz genç oğullarıyla çıkacak birini arayan bir çiftin Craigslist reklamını kabul eder.",
+      "popularity": 654.471,
+      "poster_path": "/nEwJ1OOFSBiuc2B8qKXnkjKZ2td.jpg",
+      "release_date": "2023-06-15",
+      "title": "Büyü de Gel",
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 1021
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qlxy8yo5bcgUw2KAmmojUKp4rHd.jpg",
+      "belongs_to_collection": {
+        "id": 742536,
+        "name": "The Meg Collection",
+        "poster_path": "/dwNAr6tLXDBi9WKFNluf27xPju0.jpg",
+        "backdrop_path": "/rNoyJmjdhgn30bVbvd8n3DJMocB.jpg"
+      },
+      "budget": 129000000,
+      "genres": [
+        {
+          "id": 28,
+          "name": "Aksiyon"
+        },
+        {
+          "id": 878,
+          "name": "Bilim-Kurgu"
+        },
+        {
+          "id": 27,
+          "name": "Korku"
+        }
+      ],
+      "homepage": "",
+      "id": 615656,
+      "imdb_id": "tt9224104",
+      "original_language": "en",
+      "original_title": "Meg 2: The Trench",
+      "overview": "Kötü niyetli bir maden operasyonu sebebi ile görevleri tehdit edilen ve zora giren ekibin yolculukları kaosa sürüklenir. Hayatta kalmak için yüksek riskli bir savaşın içine giren araştırma ekibi, zamana karşı nabız gibi atan bir yarışta acımasız yırtıcıları zekâlarıyla alt etmeye ve onları geride bırakmaya çalışır.",
+      "popularity": 7621.501,
+      "poster_path": "/kgtWaWkERAZfSjIc5KsOHMDuJAV.jpg",
+      "production_companies": [
+        {
+          "id": 56242,
+          "logo_path": "/1YORRYmg7hgYIgoJek8jU3cykuQ.png",
+          "name": "Apelles Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 174,
+          "logo_path": "/IuAlhI9eVC9Z8UQWOIDdWRKSEJ.png",
+          "name": "Warner Bros. Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 435,
+          "logo_path": "/AjzK0s2w1GtLfR4hqCjVSYi0Sr8.png",
+          "name": "di Bonaventura Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 92484,
+          "logo_path": "/dfWwoWRp8snHjzDKO5IFkiCAUe7.png",
+          "name": "CMC Pictures",
+          "origin_country": "CN"
+        },
+        {
+          "id": 48778,
+          "logo_path": "/tto2UKph873Xh1ytxfNBgCxT8NO.png",
+          "name": "Gravity Pictures",
+          "origin_country": "CN"
+        },
+        {
+          "id": 14714,
+          "logo_path": "/dSHaVKtBCpMU5VP9wMbTkqov62i.png",
+          "name": "China Film Group Corporation",
+          "origin_country": "CN"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "CA",
+          "name": "Canada"
+        },
+        {
+          "iso_3166_1": "CN",
+          "name": "China"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "release_date": "2023-08-02",
+      "revenue": 352056482,
+      "runtime": 116,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "Saniyeler içinde geri döndüler.",
+      "title": "Meg 2: Çukur",
+      "video": false,
+      "vote_average": 7.022,
+      "vote_count": 1136
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/g4a5YLWwi6OCp8TcvxsUNrXMbN5.jpg",
+      "genre_ids": [
+        878,
+        28,
+        53,
+        12
+      ],
+      "id": 87101,
+      "original_language": "en",
+      "original_title": "Terminator Genisys",
+      "overview": "2029 yılında İnsan Direnişi’nin lideri John Connor, Skynet’e yapacağı son saldırıdan önce, Skynet’in annesi Sarah Connor’ı öldürmesi için geçmişe bir Terminatör yolladığı haberini alır. Annesini ve insan ırkının geleceğini korumak için John, Kyle Reese’i 1984 yılına yollamaya karar verir. Ancak Kyle Reese 1984 yılına geldiğinde, 2017 yılında hiç yaşamadığı çocukluğuna ait anılar görmeye başlar. Beklenmeyen olayların geçmişi değiştirdiği fark eden Reese’in bu geçmişin yeni ve yabancı versiyonunda beklenmedik yeni müttefikleri, daha tehlikeli düşmanları ve yeni bir görevi olacaktır: Geleceği sıfırlamak.",
+      "popularity": 68.125,
+      "poster_path": "/rJQTBDYtR5EY8lF7uDLYZb13IQ0.jpg",
+      "release_date": "2015-06-23",
+      "title": "Terminatör: Genisys",
+      "video": false,
+      "vote_average": 5.922,
+      "vote_count": 7828
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xKb6mtdfI5Qsggc44Hr9CCUDvaj.jpg",
+      "genre_ids": [
+        28,
+        53,
+        878
+      ],
+      "id": 280,
+      "original_language": "en",
+      "original_title": "Terminator 2: Judgment Day",
+      "overview": "Sarah Connor'ın Skynet tarafından gelecekten gönderilen Terminator'ın elinden kurtulmasından on yıl kadar sonra, 1995 yılında bu kez T-1000 modeli yeni bir Terminator, insan direnişçilerin gelecekteki lideri ve Sarah'nın oğlu John Connor'ı öldürmek için 2029 yılından gönderilir. Direnişçiler ise 1995 yılına yeniden programladıkları T-800 modeli bir Terminator göndermeyi başarırlar. T-800'ün görevi Sarah'yı akıl hastanesinden kaçırmak ve John'u T-1000'e karşı korumaktır.",
+      "popularity": 61.727,
+      "poster_path": "/8yS5NZtBEpQJT6xNvLV5ij6oyqk.jpg",
+      "release_date": "1991-07-03",
+      "title": "Terminatör 2: Mahşer Günü",
+      "video": false,
+      "vote_average": 8.1,
+      "vote_count": 11662
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4HodYYKEIsGOdinkGi2Ucz6X9i0.jpg",
+      "genre_ids": [
+        16,
+        28,
+        12
+      ],
+      "id": 569094,
+      "original_language": "en",
+      "original_title": "Spider-Man: Across the Spider-Verse",
+      "overview": "Spider-Man: Across the Spider-Verse, radyoaktif bir örümcek tarafından ısırılmasıyla bambaşka bir dünyaya adım atıp özel yeteneklerle donanan Miles Morales'in maceralarını konu ediyor.",
+      "popularity": 1070,
+      "poster_path": "/2k49onFB4SnbMWgczIhf1JWl6Tr.jpg",
+      "release_date": "2023-05-31",
+      "title": "Örümcek-Adam: Örümcek-Evrenine Geçiş",
+      "video": false,
+      "vote_average": 8.5,
+      "vote_count": 3923
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xVMtv55caCEvBaV83DofmuZybmI.jpg",
+      "genre_ids": [
+        53,
+        28
+      ],
+      "id": 724209,
+      "original_language": "en",
+      "original_title": "Heart of Stone",
+      "overview": "Bir istihbarat ajanı, adına çalıştığı küresel çaplı ve gizemli barışı koruma örgütünün en değerli ve en tehlikeli silahının bir hacker tarafından çalınmasını önlemeye çalışır.",
+      "popularity": 1226.324,
+      "poster_path": "/pPwVYDfwNThUrGDNDStkv6QVHkS.jpg",
+      "release_date": "2023-08-09",
+      "title": "Heart of Stone",
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 906
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wRxLAw4l17LqiFcPLkobriPTZAw.jpg",
+      "id": 697843,
+      "title": "Extraction 2",
+      "original_language": "en",
+      "original_title": "Extraction 2",
+      "overview": "Tasked with extracting a family who is at the mercy of a Georgian gangster, Tyler Rake infiltrates one of the world's deadliest prisons in order to save them. But when the extraction gets hot, and the gangster dies in the heat of battle, his equally ruthless brother tracks down Rake and his team to Vienna, in order to get revenge.",
+      "poster_path": "/7gKI9hpEMcZUQpNgKrkDzJpbnNS.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "popularity": 302.778,
+      "release_date": "2023-06-09",
+      "video": false,
+      "vote_average": 7.493,
+      "vote_count": 1727
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aQObQccZlxeEMkRigwNRAhVUj0t.jpg",
+      "id": 111637,
+      "title": "Against a Crooked Sky",
+      "original_language": "en",
+      "original_title": "Against a Crooked Sky",
+      "overview": "The eldest daughter of a pioneer family is kidnapped by a mysterious Indian tribe and the eldest son pursues. In order to win back his sister's freedom, he must sacrifice his own life by passing the test of \"Crooked Sky\" and shield his sister from an executioner's arrow. Along the way, he recruits a broken down, drunk prospector to help him track down the unknown tribe and rescue his sister",
+      "poster_path": "/fGejnwQimrmFHsWME56XGXfkNta.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        28,
+        37,
+        10751
+      ],
+      "popularity": 2.796,
+      "release_date": "1975-12-01",
+      "video": false,
+      "vote_average": 5.067,
+      "vote_count": 15
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "id": 1160053,
+      "title": "Wine Club",
+      "original_language": "en",
+      "original_title": "Wine Club",
+      "overview": "A couple elopes to wine country and stumble upon a vineyard where they hope to get some nice wedding photos. But they quickly realize that there's something very different about the vineyard's wine club.",
+      "poster_path": "/dQHCQUZPXlMmndldc5VjaQm2ExB.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        35
+      ],
+      "popularity": 0.6,
+      "release_date": "",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    }
+  ],
+  "listFavorite": [
+    {
+      "adult": false,
+      "backdrop_path": "/qlxy8yo5bcgUw2KAmmojUKp4rHd.jpg",
+      "belongs_to_collection": {
+        "id": 742536,
+        "name": "The Meg Collection",
+        "poster_path": "/dwNAr6tLXDBi9WKFNluf27xPju0.jpg",
+        "backdrop_path": "/rNoyJmjdhgn30bVbvd8n3DJMocB.jpg"
+      },
+      "budget": 129000000,
+      "genres": [
+        {
+          "id": 28,
+          "name": "Aksiyon"
+        },
+        {
+          "id": 878,
+          "name": "Bilim-Kurgu"
+        },
+        {
+          "id": 27,
+          "name": "Korku"
+        }
+      ],
+      "homepage": "",
+      "id": 615656,
+      "imdb_id": "tt9224104",
+      "original_language": "en",
+      "original_title": "Meg 2: The Trench",
+      "overview": "Kötü niyetli bir maden operasyonu sebebi ile görevleri tehdit edilen ve zora giren ekibin yolculukları kaosa sürüklenir. Hayatta kalmak için yüksek riskli bir savaşın içine giren araştırma ekibi, zamana karşı nabız gibi atan bir yarışta acımasız yırtıcıları zekâlarıyla alt etmeye ve onları geride bırakmaya çalışır.",
+      "popularity": 7621.501,
+      "poster_path": "/kgtWaWkERAZfSjIc5KsOHMDuJAV.jpg",
+      "production_companies": [
+        {
+          "id": 56242,
+          "logo_path": "/1YORRYmg7hgYIgoJek8jU3cykuQ.png",
+          "name": "Apelles Entertainment",
+          "origin_country": "US"
+        },
+        {
+          "id": 174,
+          "logo_path": "/IuAlhI9eVC9Z8UQWOIDdWRKSEJ.png",
+          "name": "Warner Bros. Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 435,
+          "logo_path": "/AjzK0s2w1GtLfR4hqCjVSYi0Sr8.png",
+          "name": "di Bonaventura Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 92484,
+          "logo_path": "/dfWwoWRp8snHjzDKO5IFkiCAUe7.png",
+          "name": "CMC Pictures",
+          "origin_country": "CN"
+        },
+        {
+          "id": 48778,
+          "logo_path": "/tto2UKph873Xh1ytxfNBgCxT8NO.png",
+          "name": "Gravity Pictures",
+          "origin_country": "CN"
+        },
+        {
+          "id": 14714,
+          "logo_path": "/dSHaVKtBCpMU5VP9wMbTkqov62i.png",
+          "name": "China Film Group Corporation",
+          "origin_country": "CN"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "CA",
+          "name": "Canada"
+        },
+        {
+          "iso_3166_1": "CN",
+          "name": "China"
+        },
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "release_date": "2023-08-02",
+      "revenue": 352056482,
+      "runtime": 116,
+      "spoken_languages": [
+        {
+          "english_name": "English",
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "Saniyeler içinde geri döndüler.",
+      "title": "Meg 2: Çukur",
+      "video": false,
+      "vote_average": 7.022,
+      "vote_count": 1136
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/g4a5YLWwi6OCp8TcvxsUNrXMbN5.jpg",
+      "genre_ids": [
+        878,
+        28,
+        53,
+        12
+      ],
+      "id": 87101,
+      "original_language": "en",
+      "original_title": "Terminator Genisys",
+      "overview": "2029 yılında İnsan Direnişi’nin lideri John Connor, Skynet’e yapacağı son saldırıdan önce, Skynet’in annesi Sarah Connor’ı öldürmesi için geçmişe bir Terminatör yolladığı haberini alır. Annesini ve insan ırkının geleceğini korumak için John, Kyle Reese’i 1984 yılına yollamaya karar verir. Ancak Kyle Reese 1984 yılına geldiğinde, 2017 yılında hiç yaşamadığı çocukluğuna ait anılar görmeye başlar. Beklenmeyen olayların geçmişi değiştirdiği fark eden Reese’in bu geçmişin yeni ve yabancı versiyonunda beklenmedik yeni müttefikleri, daha tehlikeli düşmanları ve yeni bir görevi olacaktır: Geleceği sıfırlamak.",
+      "popularity": 68.125,
+      "poster_path": "/rJQTBDYtR5EY8lF7uDLYZb13IQ0.jpg",
+      "release_date": "2015-06-23",
+      "title": "Terminatör: Genisys",
+      "video": false,
+      "vote_average": 5.922,
+      "vote_count": 7828
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "id": 1160053,
+      "title": "Wine Club",
+      "original_language": "en",
+      "original_title": "Wine Club",
+      "overview": "A couple elopes to wine country and stumble upon a vineyard where they hope to get some nice wedding photos. But they quickly realize that there's something very different about the vineyard's wine club.",
+      "poster_path": "/dQHCQUZPXlMmndldc5VjaQm2ExB.jpg",
+      "media_type": "movie",
+      "genre_ids": [
+        35
+      ],
+      "popularity": 0.6,
+      "release_date": "",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    }
+  ]
+}
